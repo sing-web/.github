@@ -2,6 +2,10 @@
 
 This project is under development!
 
+## Documentation
+
+* English: https://sing-web-docs.pages.dev/
+
 ## Contact US
 
 * Telegram Channel: https://t.me/sing_web
